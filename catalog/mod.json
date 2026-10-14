@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "id": "color-palette-aligned",
+  "name": "Color Palette Aligned",
+  "description": "Align the Designer color palette into consistent rows.",
+  "author": "joshua-small",
+  "helpUrl": "https://github.com/joshua-small/qsys-color-palette-aligned",
+  "thumbnail": "catalog/artwork/avitex.ico"
+}
